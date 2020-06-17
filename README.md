@@ -4,7 +4,7 @@
 
 L'objectif de ce TP est de créer les intéractions visibles dans le gif. Les scripts sont déjà crées et contiennent certains éléments, mais sont en grande partie à remplir vous même.
 Certaines notions n'ont pas étés vus en cours, ne paniquez pas et cherchez l'information dans la documentation Unity.
-Les scripts sont déjà placés dans la scéne.
+Les scripts sont déjà placés dans la scène.
 
 ## CarController
 
