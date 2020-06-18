@@ -28,12 +28,12 @@ On Travail dans le script *OutlineFlash*. Le but est de concevoir un effet de fl
 
 ![alt text](SmallCity_Flash.gif "Flash")
 
-1. Compléter le script en utilisant les variables existantes pour générer cet effet de flash. Il n'est pas nescessaire de créer de variables supplémentaires, mais vous pouvez créer des fonctions et coroutines.
+1. Compléter le script en utilisant les variables existantes pour générer cet effet de flash (plus ou moins le même). Il n'est pas nescessaire de créer de variables supplémentaires, mais vous pouvez créer des fonctions et coroutines.
 2. Modifier *ClickToControl* pour appeler `Flash()` via un message (`SendMessage(String methodName)`) lorsque la voiture est cliquée.
 
 ## EffectOnHighSpeedCollision
 
 On travail dans le script *EffectOnHighSpeedCollision*.
-Emettre un effet de particule lorsque deux voitures se cognent avec une vitesse d'impact suffisament grande, à la position de l'impact. On veut pouvoir simplement changer d'avis et déclancher cet effet plutôt quand une voiture rentre en collision avec un autre type d'objet, comme un arbre.
+Emettre un effet de particule (de votre création selon vos envies) lorsque deux voitures se cognent avec une vitesse d'impact suffisament grande, à la position de l'impact. On veut pouvoir simplement changer d'avis et déclancher cet effet plutôt quand une voiture rentre en collision avec un autre type d'objet, comme un arbre.
 1. Découper la question en étapes simples à la manière de la question **ClickToControl**. Inclure ce découpage en commentaire dans le script.
 2. Implémenter ces étapes.
