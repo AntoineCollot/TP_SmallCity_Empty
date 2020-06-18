@@ -37,3 +37,9 @@ On travail dans le script *EffectOnHighSpeedCollision*.
 Emettre un effet de particule (de votre création selon vos envies) lorsque deux voitures se cognent avec une vitesse d'impact suffisament grande, à la position de l'impact. On veut pouvoir simplement changer d'avis et déclancher cet effet plutôt quand une voiture rentre en collision avec un autre type d'objet, comme un arbre.
 1. Découper la question en étapes simples à la manière de la question **ClickToControl**. Inclure ce découpage en commentaire dans le script.
 2. Implémenter ces étapes.
+
+## Rendu
+
+Envoyez sur mon mail (vous pouvez utiliser https://wetransfer.com/) :
+1. Un .zip contenant les dossiers Assets et ProjectSettings de votre projet
+1. Une vidéo/gif démontrant les fonctionalités de votre application. (Vous pouvez utiliser https://www.screentogif.com, ou sur windows Win+G, ou faire une vidéo via téléphone).
