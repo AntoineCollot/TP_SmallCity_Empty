@@ -41,5 +41,5 @@ Emettre un effet de particule (de votre création selon vos envies) lorsque deux
 ## Rendu
 
 Envoyez sur mon mail (vous pouvez utiliser https://wetransfer.com/) :
-1. Un .zip contenant les dossiers Assets et ProjectSettings de votre projet
+1. Un .zip contenant les dossiers **Assets** et **ProjectSettings** de votre projet
 1. Une vidéo/gif démontrant les fonctionalités de votre application. (Vous pouvez utiliser https://www.screentogif.com, ou sur windows Win+G, ou faire une vidéo via téléphone).
